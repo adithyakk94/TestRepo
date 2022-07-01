@@ -1,0 +1,5 @@
+Mozilla Firefox
+Google Chrome
+Microsoft Edge
+Opera
+Apple Safari
